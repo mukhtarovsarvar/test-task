@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 /**
  * @author Admin on 10/17/2024
- * @project learn_dsa
- * @package org.example.task
+ * @project Task
+ * @package
  * @contact @sarvargo
  */
 public class TaskOne {
